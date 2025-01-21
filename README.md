@@ -2,7 +2,7 @@
 
 # Contact us
 
-[Questions and feedback - ](https://docs.google.com/forms/d/e/1FAIpQLSdyKlFX2Mh73cP5chL4j9pgelgbd3QV_tlmApk2X58i3-ofAQ/viewform?usp=dialog)
+[Questions and feedback](https://docs.google.com/forms/d/e/1FAIpQLSdyKlFX2Mh73cP5chL4j9pgelgbd3QV_tlmApk2X58i3-ofAQ/viewform?usp=dialog)
 
 # FAQ
 
